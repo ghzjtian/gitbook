@@ -10,3 +10,11 @@
 
 * 4.遇到 rejected 错误的解决
 >https://github.com/waylau/github-help/blob/master/Dealing%20with%20non-fast-forward%20errors%20%E5%A4%84%E7%90%86%20non-fast-forward%20%E9%94%99%E8%AF%AF.md
+
+```
+$ git fetch origin
+# Fetches updates made to an online repository
+$ git merge origin branch
+# Merges updates made online with your local work
+$ git pull origin branch
+```
