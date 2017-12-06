@@ -18,3 +18,10 @@ $ git merge origin branch
 # Merges updates made online with your local work
 $ git pull origin branch
 ```
+
+* 5.问题 ```refusing to merge unrelated histories``` 的解决
+>http://blog.csdn.net/lindexi_gd/article/details/52554159
+
+```
+http://blog.csdn.net/lindexi_gd/article/details/52554159
+```
