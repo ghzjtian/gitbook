@@ -30,17 +30,16 @@ git pull origin master ----allow-unrelated-histories
 >https://git-scm.com/book/zh/v1/Git-%E5%9F%BA%E7%A1%80-%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8
 
 ```
-tiandeMacBook-Pro-2:Android-nRF-Toolbox tianzeng$ git remote -v
+zeng$ git remote -v
 myorigin        git@github.com:ghzjtian/Android-nRF-Toolbox.git (fetch)
 myorigin        git@github.com:ghzjtian/Android-nRF-Toolbox.git (push)
 origin  git@github.com:NordicSemiconductor/Android-nRF-Toolbox.git (fetch)
 origin  git@github.com:NordicSemiconductor/Android-nRF-Toolbox.git (push)
-tiandeMacBook-Pro-2:Android-nRF-Toolbox tianzeng$ git remote add origin https://gitee.com/gitzjtian/GLB_BLE.git
-fatal: remote origin already exists.
-tiandeMacBook-Pro-2:Android-nRF-Toolbox tianzeng$ git remote rm origin
-tiandeMacBook-Pro-2:Android-nRF-Toolbox tianzeng$ git remote -v
+
+zeng$ git remote rm origin
+zeng$ git remote -v
 myorigin        git@github.com:ghzjtian/Android-nRF-Toolbox.git (fetch)
 myorigin        git@github.com:ghzjtian/Android-nRF-Toolbox.git (push)
-tiandeMacBook-Pro-2:Android-nRF-Toolbox tianzeng$ 
+zeng$ 
 
 ```
