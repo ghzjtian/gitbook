@@ -23,5 +23,5 @@ $ git pull origin branch
 >http://blog.csdn.net/lindexi_gd/article/details/52554159
 
 ```
-http://blog.csdn.net/lindexi_gd/article/details/52554159
+git pull origin master ----allow-unrelated-histories
 ```
