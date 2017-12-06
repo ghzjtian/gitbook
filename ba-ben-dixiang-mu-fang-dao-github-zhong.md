@@ -8,3 +8,5 @@
 * 3.为本地项目添加远程库
 >https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000
 
+* 4.遇到 rejected 错误的解决
+>https://github.com/waylau/github-help/blob/master/Dealing%20with%20non-fast-forward%20errors%20%E5%A4%84%E7%90%86%20non-fast-forward%20%E9%94%99%E8%AF%AF.md
